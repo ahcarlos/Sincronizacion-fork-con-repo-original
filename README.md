@@ -4,12 +4,9 @@
 
   * `git remote add upstream <ssh_repositorio>`.
 
+* `git fetch upstream`.
 
-*  `git fetch upstream`.
-
-
-*  `git checkout master`.
-
+* `git checkout master`.
 
 * Hacer un merge de `upstream/master`a nuestra rama `master` local. Esto sincroniza nuestra rama master del fork local con el repositorio original, sin perder los cambios realizados en local.
 
