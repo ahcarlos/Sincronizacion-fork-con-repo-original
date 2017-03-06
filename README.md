@@ -13,4 +13,4 @@
   * `git merge upstream/master`.
 
 #### Script.py
-@Chinegua ha desarrollado un script que automatiza los pasos anteriores, usando el lenguaje Python.
+[@Chinegua](https://github.com/Chinegua) ha desarrollado un script que automatiza los pasos anteriores, usando el lenguaje Python3.
