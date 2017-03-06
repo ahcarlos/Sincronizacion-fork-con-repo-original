@@ -11,3 +11,6 @@
 4. Hacer un merge de `upstream/master`a nuestra rama `master` local. Esto sincroniza nuestra rama master del fork local con el repositorio original, sin perder los cambios realizados en local.
 
   * `git merge upstream/master`.
+
+#### Script.py
+@Chinegua ha desarrollado un script que automatiza los pasos anteriores, usando el lenguaje Python.
